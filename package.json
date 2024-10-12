@@ -1,0 +1,19 @@
+{
+  "name": "serverette",
+  "version": "0.9.0",
+  "description": "Node.js Testing Web Server",
+  "main": "serverette.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emnawer/serverette.git"
+  },
+  "author": "emnawer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/emnawer/serverette/issues"
+  },
+  "homepage": "https://github.com/emnawer/serverette#readme"
+}
